@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM "Student.dtd">
+<students>
+	<student sid="cse1">
+		<Name>sai</Name>
+		<Branch>cse</Branch>
+	</student>
+</students>
+
+<xs.schema xmlns:xs ="https://www.w3.org/2001/XMLschema"
