@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<!DOCTYPE book SYSTEM "book.dtd">
+<bookdetails>
+<book>
+<title>XML Bible</title>
+<author>Elliotte Rusty Harold</author>
+<isbn>9876543210</isbn>
+<publisher>Hungry Minds</publisher>
+<edition>4th</edition>
+<price>$21.99</price>
+</book>
+<book>
+<title>HeadFirst Java Servlets</title>
+<author>Bryan Basham</author>
+<isbn>9876543220</isbn>
+<publisher>Orelli Seris</publisher>
+<edition>6th</edition>
+<price>$26.09</price>
+</book>
+<book>
+<title>Beginning Java 2</title>
+<author>Ivor Horton</author>
+<isbn>9876543220</isbn>
+<publisher>wrox</publisher>
+<edition>3th</edition>
+<price>$8.95</price>
+</book>
+<book>
+<title>HTML5: Up and Running</title>
+<author>Mark Pilgrim</author>
+<isbn>1234567890</isbn>
+<publisher>O'REILLY</publisher>
+<edition>1st</edition>
+<price>$17.99</price>
+</book>
+</bookdetails>
